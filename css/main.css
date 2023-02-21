@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto&display=swap');
+´{ margin: 0;
+   padding: 0%;}
+ :root{
+    font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+}
+
+ .pie-de-pagina {
+    text-align: center;
+    border: 6px solid rgb(4, 4, 5);
+    background-color: rgba(202, 152, 2, 0.989);
+    font-family: 'Noto Serif', serif;
+
+ }
+ .titulo-texto {
+    float: right;
+    font-family: 'Noto Serif', serif;
+    text-align: justify;
+ }
+
+ .info-contacto{
+    border: 4px solid black;
+    height: 800px;
+    background-color: blueviolet;
+    text-align: center;
+ }
+ .buscador{
+    float: right;
+    margin-bottom: 0%;
+
+ }
+ .cuerpo-pagina-1{
+    border: 4px solid black;
+    text-align: center;
+    background-color: blueviolet;
+    height: 800px;
+    margin: 0% ;
+    padding: 0%;
+ }
+
+.cuerpo-pagina-2 {
+    border: 4px solid black;
+    text-align: center;
+    background-color: blueviolet;
+    height: 800px;
+
+}
+.cuerpo-pagina-3{
+    border: 4px solid black;
+    text-align: center;
+    background-color: blueviolet;
+    height: 800px;
+   }
+
